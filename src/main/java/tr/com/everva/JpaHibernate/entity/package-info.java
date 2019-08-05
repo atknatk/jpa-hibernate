@@ -1,0 +1,1 @@
+package tr.com.everva.JpaHibernate.entity;
